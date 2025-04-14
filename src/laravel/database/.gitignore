@@ -1,0 +1,7 @@
+*.sqlite*
+*.mysql*
+db/auto.cnf
+db/binlog.index
+db/ib_buffer_pool
+db/*.sock
+db/*.log
